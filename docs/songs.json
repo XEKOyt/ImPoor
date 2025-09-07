@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": "test",
+    "title": "bing chillin",
+    "artist": "idk",
+    "url": "https://makeityours.fr/ImPoor/music/song1.mp3"
+  },
+  {
+    "id": "test2",
+    "title": "skibidi silcers",
+    "artist": "idk",
+    "url": "https://makeityours.fr/ImPoor/music/song2.mp3"
+  }
+]
